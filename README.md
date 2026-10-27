@@ -65,4 +65,25 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Probely is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://probely.com/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://probely.com/)
+- [Documentation](https://dev.probely.com/)
+- [Getting started](https://docs.snyk.io/getting-started-guides/getting-started)
+- [API reference](https://developers.probely.com/api/reference/)
+- [Pricing](https://probely.com/pricing/)
+- [Sign up](https://probely.com/sign-up/)
+- [Blog](https://probely.com/blog/)
+- [Security](https://probely.com/security/)
+- [Compliance](https://snyk.io/product/dast-api-web/)
+- [Terms of service](https://dev.probely.com/terms-of-service/)
+- [GitHub](https://github.com/snyk/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/probely/](https://apis.io/providers/probely/).
